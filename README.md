@@ -1,4 +1,4 @@
 # github-demo
 This is my first repo
 <br>
-Author - Anushri Choubey
+Author - Anushri Choubey(anu)
